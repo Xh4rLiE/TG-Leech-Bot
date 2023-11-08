@@ -230,7 +230,7 @@
 - Clone this repo:
 
 ```
-git clone https://github.com/Xh4rLiE/TG-Leech-Bot mirrorbot/ && cd TG-Leech-Bot
+git clone https://github.com/Xh4rLiE/TG-Leech-Bot && cd TG-Leech-Bot
 ```
 
 - For Debian based distros
